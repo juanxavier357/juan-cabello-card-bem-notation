@@ -1,7 +1,7 @@
 body {
     margin: 0px;
     padding: 9px 9px 0 9px;
-    background-color: purple;
+    background-color: blue;
 }
 .card {
     margin: 0px;
@@ -18,16 +18,12 @@ body {
     width: 150px;
     border-radius: 50%;
     border: 3px solid white;
-    outline: 5px solid purple;
+    outline: 5px solid blue;
 }
 
 .card__title {
     font-size: 14px;
-    color: purple;
-}
-
-.car__stars {
-
+    color: blue;
 }
 
 .card__description {
@@ -45,10 +41,10 @@ body {
     padding: 15px 40px;
     margin: 7px;
     font-size: 18px;
-    color: purple;
+    color: blue;
     background-color: white;
     border: solid;
-    border-color: purple;
+    border-color: blue;
     border-radius: 7px;
 }
 
@@ -62,8 +58,8 @@ body {
     margin: 7px;
     font-size: 18px;
     color: white;
-    background-color: purple;
+    background-color: blue;
     border: solid;
-    border-color: purple;
+    border-color: blue;
     border-radius: 7px;
 }
